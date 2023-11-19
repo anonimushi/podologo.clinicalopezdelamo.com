@@ -1,0 +1,37 @@
+general:
+  icon: ''
+  icon_type: ''
+  icon_size: ''
+  icon_color: ''
+  image: ''
+  ratio: ''
+  contain: false
+  border: ''
+  inset: false
+  image_min: null
+  image_max: null
+  image_align: ''
+  uppercase: false
+  underline: false
+  align: ''
+  full_screen: false
+  padding_hide: false
+  padding_top: null
+  padding_bottom: null
+  color: ''
+  gradient: ''
+  gradient_type: ''
+  bg: ''
+  opacity: null
+  parallax: true
+  pill: false
+  size: md
+  container: ''
+  container_gradient: ''
+  container_gradient_type: ''
+  container_opacity: null
+  hide_shadow: false
+  divider: ''
+  flip_x: false
+  flip_y: false
+alternate: []

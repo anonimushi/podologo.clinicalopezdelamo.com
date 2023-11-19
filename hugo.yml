@@ -1,0 +1,32 @@
+baseURL: https://podologo.clinicalopezdelamo.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/lopezdelamo/podologo.clinicalopezdelamo.com
+  netlify_name: lopezdelamo
+  netlify_id: 81c2748e-e24e-41c3-9438-21d2a46e03c9
+  drive_link: https://drive.google.com/file/d/1fDnF7jPZWlbYoGIIrbxjJz9OPFBDuN87
+  drive_mails: andres.lopezdelamo@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

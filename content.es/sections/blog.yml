@@ -1,0 +1,12 @@
+id: blog
+title: Blog
+subtitle: Artículos recientes
+color: light
+rows:
+- type: articles
+  kind: blog
+  max: 3
+  design:
+    num: 3
+    color: white
+    slider: true

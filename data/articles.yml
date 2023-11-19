@@ -1,0 +1,56 @@
+content:
+  logo: logo.svg
+  title: ''
+  subtitle: ''
+  uppercase: false
+  underline: false
+  align: left
+  color: light
+  toc_color: white
+  border: main
+  reading_time: true
+common:
+  size: ''
+  num: 3
+  num_xs: false
+  gap: ''
+  title_size: null
+  uppercase: false
+  underline: false
+  icon: ''
+  icon_type: ''
+  icon_size: ''
+  icon_color: ''
+  image: gradient
+  image_hover: ''
+  ratio: 16x9
+  contain: false
+  inset: true
+  border: ''
+  grayscale: false
+  align: left
+  align_y: ''
+  align_x: ''
+  padding: ''
+  color: white
+  gradient: ''
+  gradient_type: ''
+  color_opacity: null
+  pill: false
+  card: false
+  hide_shadow: false
+  hide_description: false
+  hide_categories: true
+  reading_time: true
+  licon: ''
+  label: ''
+  button: hide
+  font_alt: false
+  slider: false
+  interval: null
+  hide_bullets: false
+  hide_arrows: false
+blog: {}
+events: {}
+products: {}
+taxonomies: {}

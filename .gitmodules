@@ -1,0 +1,3 @@
+[submodule "themes/sansoul"]
+	path = themes/sansoul
+	url = https://github.com/lorensansol/sansoul.git

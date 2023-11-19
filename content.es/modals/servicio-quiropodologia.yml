@@ -1,0 +1,72 @@
+id: quiropodologia
+title: Quiropodología
+icon: icono-quiropodologia
+description: |
+  Mediante esta rama de la podología damos solución a múltiples problemas del pie como pueden ser los siguientes:
+
+  - Hongos.
+  - Uñas encarnadas.
+  - Callos.
+  - Ojo de pollo.
+  - Durezas.
+
+  Somos muchos los que, alguna vez, hemos experimentado la incomodidad o incluso el dolor de alguna de estas afecciones, así como sus antiestéticos efectos. Es muy importante detectar a tiempo cualquier posible infección o patología del pie, pero también resulta de vital importancia acudir al servicio de podología que garantice profesionalidad. Con nuestros servicios de quiropodología tratamos todos estos problemas de forma rápida y eficaz.
+rows:
+- type: collapsible
+  items:
+  - icon: check
+    title: Durezas o Hiperqueratosis
+    description: |
+      Son engrosamientos de la capa más superficial de la piel del pie a causa de un aumento de células muertas. Suelen ser asintomáticas con un color amarillento (por el cúmulo de queratina), generalmente no provocan dolor o molestia. Aparecen como mecanismo de protección de la piel del pie ante la presión o roce continuado y son causados por la presión o fricción intermitentes.
+
+      Este tipo de lesiones las podemos encontrar tanto en el antepié, es decir, en la parte delantera del pie y también en los talones.
+
+      ![durezas](durezas.jpg)
+
+      Cuando esta lesión crece hacia capas más profundas de la piel y tiene los bordes más definidos recibe el nombre de heloma duro o también conocido como callo.
+
+      ![hiperqueratosis](hiperqueratosis.jpg)
+
+      #### ¿Cómo se trata esta lesión?
+
+      El podólogo, es el especialista del pie que realizará el tratamiento más adecuado según cada caso. La QUIROPODIA, Es el tratamiento podológico más frecuente para solucionar las durezas. A través de la deslaminación se podrá eliminar la acumulación de células muertas en la piel. Aunque mucha gente piense lo contrario, el tratamiento para la eliminación de las durezas es indoloro para el paciente.
+
+      En caso de tener hiperqueratosis o callos de manera frecuente, es aconsejable que el podólogo realice un estudio de la pisada, en busca del origen o causa que lo provoca y poniendo tratamiento mediante la plantillas a medida que permitan una distribución adecuada de las presiones y evitando la aparición del callo o hiperqueratosis.
+  - icon: check
+    title: Uña Encarnada
+    description: |
+      La inflamación y el dolor que aparecen cuando una uña se clava puede complicarse si no se acude a un profesional desde el inicio de los síntomas. Es más, minimizar los riesgos puede provocar que haya afectación, incluso, del hueso, por lo que recomendamos acudir al podólogo, el cual, le podrá solución a la molestia sin dolor.
+
+      La onicocriptosis sucede cuando un borde de la uña se clava bajo la piel del dedo, coloquialmente se conoce como uña encarnada y se puede producir por múltiples causas como llevar las uñas mal cortadas o un calzado muy ajustado, entre otras.
+
+      Cuando el paciente percibe el dolor en el dedo, propio de la uña encarnada, la tendencia habitual es intentar cortar la esquina con una tijera, pero por regla general el borde de la uña clavada está demasiado profunda como para poder acceder a él y el corte que se realiza es tan sólo superficial. Además, la dificultad de adquirir una posición adecuada y el excesivo grosor de las uñas pueden complicar aún mas el realizar un corte adecuado de la uña.
+
+      ![uña-encarnada](una-encarnada.jpg)
+
+      Si la uña encarnada llega a causar herida es fácil que se produzca una infección provocando un absceso (inflamación de los tejidos con acumulación de pus). Si la uña se deja sin tratamiento, el proceso infeccioso acabará causando un granuloma, que es un tipo especial de inflamación que se encuentra muy vascularizada, y que es exudativa y extremadamente dolorosa.
+
+      El tratamiento de la Onicocriptosis dependerá de la fase en que se encuentre. El tratamiento inicial será conservador, realizando corte recto de uña y eliminando la espícula que provoca el dolor. Si existe infección se deberá pautar antibiótico para controlar la infección y proceder al tratamiento que se considere.
+
+      Si ya se ha instaurado la uña encarnada o se clava la uña con mucha frecuencia e imposibilita o limita la práctica deportiva, el tratamiento definitivo será quirúrgico mediante cirugía podológica.
+
+      #### ¿Cómo es la cirugía de la uña encarnada?
+
+      En el tratamiento definitivo, existen diferentes técnicas quirúrgicas dependiendo de la morfología de la uña y sus tejidos circundantes. A la hora de elegir la técnica quirúrgica también habrá que tener en cuenta si es un niño o un adulto y si se puede permitir o no la baja laboral. De forma general se realiza lo que se denomina una matricectomia parcial, es decir quitar una lámina de la uña y lo que corresponde a su matriz para que no vuelva a salir, dejando la uña un poquito más estrecha pero imperceptible para el paciente. Los resultados estéticos y funcionales son muy satisfactorios.
+
+      ![cirugia-uña-encarnada](cirugia-una-encarnada.jpg)
+
+      Es un procedimiento muy sencillo, que se realiza con anestesia local en el dedo y en la propia consulta sin necesidad de ingresar en el hospital. El tiempo de la cirugía es muy corto, aproximadamente 15-20 minutos, el paciente se va caminando y en 3-4 semanas el dedo está totalmente curado.
+  - icon: check
+    title: Ampollas
+    description: |
+      La ampolla se genera tras mantenerse esa presión y fricción en el pie durante un tiempo. Por este motivo, aparecen de forma más habitual en carreras de larga distancia, pero también pueden generarse en tramos cortos por el uso de un calzado que comprima de manera excesiva algunas zonas del pie.
+
+      Antes o después de cualquier evento deportivo es aconsejable ponerte en manos de tu podólogo para un examen en profundidad tanto de la biomecánica y estudio de la pisada como una revisión de los pies en busca de hiperqueratosis o durezas que puedan poner en peligro nuestros pies. Así como que nuestro podólogo nos aconseje sobre como prevenir dichas lesiones tanto en el día a día como en la realización de deporte como puede ser el running.
+
+      ![ampollas](ampollas.jpg)
+  - icon: check
+    title: Cuerpo Extraño
+    description: |
+      Un cuerpo extraño en la piel es cualquier objeto que se mete dentro de ella. Por ejemplo, una astilla, una espina, una púa de erizo o un anzuelo. Los síntomas mas frecuentes son enrojecimiento, hinchazón, dolor o fiebre. En estos casos hay que diferenciar este tipo de lesiones de hiperqueratosis, callos o verrugas plantares, Por ello, es importante acudir a un especialista del pie como es el podólogo que permitirá realizar un buen diagnóstico y tratamiento.
+
+      ![cuerpo-extrano](cuerpo-extrano.jpg)

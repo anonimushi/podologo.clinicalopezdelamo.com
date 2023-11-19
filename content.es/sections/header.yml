@@ -1,0 +1,13 @@
+id: header
+anchor: Clínica del Pie y Podólogo en Murcia
+title: Clínica del Pie López del Amo
+subtitle: Podólogo en Murcia
+color: white
+image: logo.svg
+size: fluid
+description: |
+  [btn icon-youtube Vídeo](#video)
+more:
+  align: center
+  image_min: 10
+  image_max: 18

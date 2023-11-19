@@ -1,0 +1,38 @@
+id: servicios
+title: Servicios
+color: light
+description: |
+  Son muchas y muy variadas las razones que nos pueden llevar a querer visitar a un podólogo y una buena clínica de podología debe ser capaz de dar una respuesta a todas ellas. Con nosotros podrás tratar los siguientes aspectos relacionados con el pie:
+rows:
+- type: columns
+  design:
+    num: 5
+    color: white
+  items:
+  - title: Quiropodología
+    link: '#quiropodologia'
+    icon: icono-quiropodologia
+  - title: Estudio Biomecánico
+    link: '#estudio-biomecanico'
+    icon: icono-estudio-biomecanico
+  - title: Podología Deportiva
+    link: '#podologia-deportiva'
+    icon: icono-podologia-deportiva
+  - title: Soportes Plantares
+    link: '#soportes-plantares'
+    icon: icono-soportes-plantares
+  - title: Ecografía
+    link: '#ecografia'
+    icon: icono-ecografia
+  - title: Podología Infantil
+    link: '#podologia-infantil'
+    icon: icono-podologia-infantil
+  - title: Cirugía Podológica
+    link: '#cirugia-podologica'
+    icon: icono-cirugia-podologica
+  - title: Dermatología Podológica
+    link: '#dermatologia-podologica'
+    icon: icono-dermatologia-podologica
+  - title: Pie Diabético
+    link: '#pie-diabetico'
+    icon: icono-pie-diabetico

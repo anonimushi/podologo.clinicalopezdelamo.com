@@ -1,0 +1,7 @@
+id: video
+anchor: Vídeo
+image: https://youtu.be/auKl2uoDMko
+size: lg
+more:
+  padding_hide: true
+  ratio: 16x9

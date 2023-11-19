@@ -1,0 +1,7 @@
+description: |
+  - icon-copyright      {{< internal-link index >}}
+  - icon-scale-balanced {{< internal-link legal >}}
+  - icon-shield-keyhole {{< internal-link privacy >}}
+  - icon-cookie-bite    {{< internal-link cookies >}}
+  - icon-seacomoseo     {{< i18n web-design >}} [seacomoseo.com](https://seacomoseo.com/)
+  {.list-inline}

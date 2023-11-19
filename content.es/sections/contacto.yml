@@ -1,0 +1,59 @@
+id: contacto
+title: Contacto
+color: white
+button: link
+size: sm
+description: |
+  No dudes en contactar con nosotros para conocer el precio de nuestros servicios podológicos, el precio de un tratamiento, o simplemente el precio de una consulta con nuestros podólogos.
+
+  Ponte en contacto con nuestra clínica López del Amo y empieza con buen pie tus tratamientos podológicos.
+
+  ### Clínica del pie en Murcia
+
+  Todos estos servicios son los que ofrecemos en nuestra clínica del pie situada en Murcia. Si estás buscando en general podólogos en Murcia capital o concretamente un podólogo deportivo en Murcia, la clínica podológica López del Amo es tu solución. Disponemos de una clínica en Murcia Capital y otra en Torreagüera:
+rows:
+- type: contact
+  data:
+
+  - type: h3
+    label: Murcia
+  - type: phone
+    label: 697 63 59 59
+  - type: whatsapp
+    label: 697 63 59 59
+  - type: phone
+    label: 968 22 07 27
+  - type: address
+    active: true
+    name: Clínica del Pie López del Amo - Podólogo en Murcia
+    streetAddress: Calle Jaime I el Conquistador, 11, 2B
+    postalCode: 30008
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.131834,37.989242]}'
+
+  - type: h3
+    label: Torreagüera
+  - type: phone
+    label: 697 63 59 59
+  - type: whatsapp
+    label: 697 63 59 59
+  - type: phone
+    label: 968 82 19 58
+  - type: address
+    active: true
+    name: Clínica del Pie López del Amo - Podólogo en Torreagüera
+    streetAddress: Calle Mayor, 42, 1B
+    postalCode: 30579
+    addressLocality: Torreagüera
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.056023,37.979492]}'
+
+  - type: br
+
+  map:
+    active: true
+    link: '' # https://www.google.com/maps/d/viewer?mid=1k3zXykDOsNavvbvUMRYTzN98jYo
+    iframe: '' # https://www.google.com/maps/d/embed?mid=1k3zXykDOsNavvbvUMRYTzN98jYo

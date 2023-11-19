@@ -1,0 +1,40 @@
+title: Clínica del Pie López del Amo
+description: Clínica de Podología en Murcia con servicios de prevención, diagnóstico y tratamiento.
+logo: logo-mas-podologia-alt.svg
+legal_name: CLÍNICA LÓPEZ DEL AMO
+legal_dni: ES48519327E
+legal_email: ''
+legal_location: ''
+country: España
+location_type:
+- MedicalBusiness
+- Organization
+alternate_name: []
+price_range: ''
+google_analytics: G-2NSHNP5XK9
+google_site_verification: XRI3xl9j74Znh64ZTexiKkMwv6nTY6il9hjxYXndQl0
+google_file_verification: google7467d923cbb3eb4c.html
+disqus: clinicalopezdelamo
+cookies_legal: false
+analytics_pagespeed: true
+process_all_images: false
+cms: true
+cms_editorial_workflow: false
+development: false
+custom_code:
+  html_head:
+    code: ''
+    lang: html
+  html_body:
+    code: ''
+    lang: html
+  css:
+    code: ''
+  js:
+    code: ''
+    lang: javascript
+social:
+- link: https://www.facebook.com/clinicalopezdelamo/
+- link: https://twitter.com/clopezdelamo
+- link: https://www.youtube.com/channel/UCpJMkSZyWbE-IR_hcryv6Lg
+

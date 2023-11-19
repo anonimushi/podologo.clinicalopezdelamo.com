@@ -1,0 +1,19 @@
+id: slider
+anchor: Fotos
+size: fluid
+more:
+  padding_hide: true
+rows:
+- type: columns
+  design:
+    num: 1
+    gap: 0
+    hide_radius: true
+    slider: true
+    interval: 5
+  items:
+  - bg: clinica-del-pie-lopez-del-amo-podologo-en-murcia.jpg
+  - bg: clinica-de-podologia-en-murcia.jpg
+  - bg: clinica-pie-lopez-amo-podologia-murcia.jpg
+  - bg: podologo-en-murcia.jpg
+  - bg: clinica-del-pie-lopez-del-amo-en-murcia.jpg

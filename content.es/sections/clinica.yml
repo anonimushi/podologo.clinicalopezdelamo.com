@@ -1,0 +1,21 @@
+id: clinica
+title: Clínica
+size: fluid
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 4
+    alt: false
+    wrap: false
+    gap: false
+    cover: true
+    grayscale: false
+    link: /fotos/
+  images:
+  - clinica-del-pie-lopez-del-amo-en-murcia.jpg
+  - clinica-del-pie-en-murcia.jpg
+  - podologo-en-murcia.jpg
+  - clinica-del-pie-lopez-del-amo-podologia-en-murcia.jpg

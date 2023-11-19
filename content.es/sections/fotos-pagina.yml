@@ -1,0 +1,32 @@
+id: fotos-pagina
+title: Clínica
+subtitle: Fotos de nuestra clínica
+color: link-dark
+size: lg
+rows:
+- type: gallery
+  design:
+    max: 999
+    num: 4
+    alt: false
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - clinica-lopez-amo-podologia-odontologia-fisioterapia-murcia.jpg
+  - clinica-pie-lopez-amo-podologo-murcia.jpg
+  - clinica-del-pie-lopez-del-amo-en-murcia.jpg
+  - clinica-del-pie-lopez-del-amo-podologo-en-murcia.jpg
+  - clinica-de-podologia-lopez-del-amo-en-murcia.jpg
+  - clinica-del-pie-en-murcia.jpg
+  - clinica-del-pie-lopez-del-amo-podologia-en-murcia.jpg
+  - clinica-pie-lopez-amo-podologia-murcia.jpg
+  - carrusel-clinica-lopez-del-amo-trabajando-podologia-analisis-pisada-3.jpg
+  - mas-podologia-1.jpg
+  - podologo-en-murcia.jpg
+  - clinica-de-podologia-en-murcia.jpg
+  - clinica-lopez-del-amo-trabajando-podologia-analisis-pisada.jpg
+  - carrusel-clinica-lopez-del-amo-trabajando-podologia-radiografia.jpg
+  - podologo-dr-d-andres-lopez-del-amo-lorente.jpg
+  - clinica-lopez-del-amo-murcia.jpg

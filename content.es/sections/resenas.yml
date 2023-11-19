@@ -1,0 +1,31 @@
+id: resenas
+title: Reseñas
+subtitle: Opinión de algunos clientes
+color: light
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Modesta V.
+    # image: resena-modesta-valero.jpg
+    description: |
+      ¡Me siento como en casa! Por su profesionalidad y trabajo bien hecho... Recomiendo a mis amigos y conocidos... Servicio y calidad, en Murcia es la mejor.
+  - title: Paco R.
+    # image: resena-paco-rivera-garcia.jpg
+    description: |
+      Un gran profesional y mejor persona. Muy preparado con toda la formación que ya quisieran los mejores profesores y podologos de España.
+  - title: Raquel G.
+    # image: resena-raquel-gcia.jpg
+    description: |
+      Ubicación perfecta; en pleno centro de Murcia! Y un servicio excepcional.
+- type: columns
+  items:
+  - description: |
+      Puede ver y escribir más
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/clinicalopezdelamo/review "noindex")
+      [btn icon-star Facebook](https://www.facebook.com/pg/clinicalopezdelamo/reviews/ "noindex")

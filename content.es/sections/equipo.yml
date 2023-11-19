@@ -1,0 +1,16 @@
+id: equipo
+title: Equipo
+subtitle: Podólogos Especialistas
+color: white
+size: sm
+rows:
+- type: columns
+  design:
+    ratio: circle
+  items:
+  - title: Dr. D. Andrés <br> López del Amo Lorente
+    link: '#dr-d-andres-lopez-del-amo-lorente'
+    image: podologo-dr-d-andres-lopez-del-amo-lorente.jpg
+  - title: Dña. Marta <br> Giménez Martínez
+    link: '#dr-dna-marta-gimenez-martinez'
+    image: podologa-dr-dna-marta-gimenez-martinez.jpg
