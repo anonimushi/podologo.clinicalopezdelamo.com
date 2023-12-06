@@ -1,107 +1,145 @@
 // Menu
 
-@media (min-width: $screen-menu-sticky) {
-  .body-top .menu--sticky .menu__items {
-      padding-top: 0.5em;
-      padding-bottom: 0.5em;
-  }
-  #body-inicio {
-    .menu--sticky {
-      background-color: rgba($white, .75);
-      // background-color: rgba($main, .75);
-      // .menu--sticky__container > .menu__items > .menu__item > .menu__link {
-      //   color: $white;
-      // }
-    }
-  }
-}
-
-// Header
-#body-inicio #header {
-  overflow: visible;
-  position: relative;
-  padding: 1em 0 0;
-  z-index: 55;
-  width: 100%;
-  background-color: $main;
-  .container--fluid {
-    overflow: visible;
-    position: static;
-    // width: auto;
-    // height: 0;
-    padding: 0;
-  }
-  .section__header {
-    background-color: rgba($white, .75);
-    padding: 1em 10%;
-    margin: 1em 0 0;
-  }
-  .section__title {
-    font-size: fluid-size(11.2px, 18px);
-    justify-content: center;
-  }
-  .subtitle {
-    font-size: fluid-size(14.4px, 20px);;
-    text-align: center;
-  }
-  .description {
-    margin-top: -.25em;
-    position: absolute;
-    left: 0;
-    width: 100%;
-  }
-  @media (min-width: $screen-menu-sticky) {
-    position: absolute;
-    padding: 0;
-    top: 18em;
-    background-color: transparent;
-    .section__header {
-      position: absolute;
-      top: 6em - 17em;
-      left: 0;
-      border-radius: 0 $radius $radius 0;
-    }
-    .subtitle {
-      text-align: unset;
-    }
-    .description {
-      margin-top: 2em;
-    }
-    .image {
-      filter: drop-shadow(0 0 .5em $black);
-      // background-color: rgba($main, .75);
-      // width: fit-content;
-      // margin: 0 auto 1em;
-    }
-    #logo-lopez,
-    #logo-amo {
-      fill: $white;
-    }
-  }
-}
-
-// @keyframes stroke {
-//   0% {
-//     stroke-dashoffset: 15em;
+// @media (min-width: $screen-menu-sticky) {
+//   .body-top .menu--sticky .menu__items {
+//       padding-top: 0.5em;
+//       padding-bottom: 0.5em;
+//   }
+//   #body-inicio {
+//     .menu--sticky {
+//       background-color: rgba($white, .75);
+//       // background-color: rgba($main, .75);
+//       // .menu--sticky__container > .menu__items > .menu__item > .menu__link {
+//       //   color: $white;
+//       // }
+//     }
 //   }
 // }
-// #logo-linea {
-//   stroke-dasharray: 15em;
-//   animation: stroke 2s .5s both;
+
+// Header
+// #body-inicio #header {
+//   overflow: visible;
+//   position: relative;
+//   padding: 1em 0 0;
+//   z-index: 55;
+//   width: 100%;
+//   background-color: $main;
+//   .container--lg {
+//     overflow: visible;
+//     position: static;
+//     // width: auto;
+//     // height: 0;
+//     padding: 0;
+//   }
+//   .section__header {
+//     background-color: rgba($white, .75);
+//     padding: 1em 10%;
+//     margin: 1em 0 0;
+//   }
+//   .section__title {
+//     font-size: fluid-size(11.2px, 18px);
+//     justify-content: center;
+//   }
+//   .subtitle {
+//     font-size: fluid-size(14.4px, 20px);;
+//     text-align: center;
+//   }
+//   .description {
+//     margin-top: -.25em;
+//     position: absolute;
+//     left: 0;
+//     width: 100%;
+//   }
+//   @media (min-width: $screen-menu-sticky) {
+//     position: absolute;
+//     padding: 0;
+//     top: 18em;
+//     background-color: transparent;
+//     .section__header {
+//       position: absolute;
+//       top: 6em - 17em;
+//       left: 0;
+//       border-radius: 0 $radius $radius 0;
+//     }
+//     .subtitle {
+//       text-align: unset;
+//     }
+//     .description {
+//       margin-top: 2em;
+//     }
+//     .image {
+//       filter: drop-shadow(0 0 .5em $black);
+//       // background-color: rgba($main, .75);
+//       // width: fit-content;
+//       // margin: 0 auto 1em;
+//     }
+//     #logo-lopez,
+//     #logo-amo {
+//       fill: $white;
+//     }
+//   }
 // }
-@keyframes show-right {
-  0% {
-    transform: translateX(-3rem);
-    opacity: 0;
-  }
-}
-.section--header {
+
+// @keyframes show-right {
+//   0% {
+//     transform: translateX(-3rem);
+//     opacity: 0;
+//   }
+// }
+// .section--header {
+//   .section__header {
+//     animation: show-right .5s 2s both;
+//   }
+//   .description {
+//     .buttons {
+//       animation: show-up .5s 2.5s both;
+//     }
+//   }
+// }
+
+#body-inicio #header {
+  z-index: 1;
+  overflow: visible;
   .section__header {
-    animation: show-right .5s 2s both;
+    position: initial;
+    padding: 1em 10%;
+    margin: 1em 0;
+    text-indent: 0;
+    font-size: .75em;
+    z-index: 1;
+    animation: show-up .5s 0.25s both;
+    h1 {
+      font-size: 1.2em;
+      text-align: left;
+    }
   }
   .description {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    top: 100%;
+    transform: translateY(25%);
     .buttons {
-      animation: show-up .5s 2.5s both;
+      animation: show-up .5s 0s both;
+    }
+  }
+  .rows {
+    margin: 0;
+  }
+  @media (min-width: $screen-menu-sticky) {
+    .section__header {
+      font-size: 1em;
+      position: absolute;
+      top: 5em;
+      left: 0;
+      border-radius: 0 1.25em 1.25em 0;
+      width: auto;
+      height: auto;
+      background-color: rgba(255, 255, 255, 0.75);
+    }
+    .description {
+      top: 50%;
+      transform: translateY(-50%);
     }
   }
 }

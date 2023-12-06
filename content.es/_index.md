@@ -8,7 +8,6 @@ draft: false
 noindex: false
 sections:
 - file: header
-- file: slider
   modals:
   - video
 - file: podologo

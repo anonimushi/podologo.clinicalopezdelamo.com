@@ -1,9 +1,9 @@
-logo: ''
+logo: logo.svg
 color: white
-screen_sticky: 800
+screen_sticky: 1050
 size_sticky: ''
 articles_sticky: false
-transparent: true
+transparent: false
 hide_anchors: false
 hide_icons: false
 show_modals: false
