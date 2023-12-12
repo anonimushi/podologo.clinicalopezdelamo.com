@@ -23,6 +23,7 @@ languages:
         categories: categoria/:slug
         tags: etiqueta/:slug
         authors: autor/:slug
+        custom: :slug
       section:
         pages: paginas
         blog: blog
@@ -31,3 +32,4 @@ languages:
         categories: categorias
         tags: etiquetas
         authors: autores
+        custom: personalizadas
