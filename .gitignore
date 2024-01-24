@@ -5,6 +5,6 @@ resources
 hugo_stats.json
 .hugo_build.lock
 package-lock.json
-babel.config.js
 postcss.config.js
 .vscode
+assets/jsconfig.json
