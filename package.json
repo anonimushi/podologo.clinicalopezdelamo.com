@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "SanSoul is the Hugo theme website services soul by lorensansol",
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^4.0.2",
-    "autoprefixer": "^10.2.4",
-    "cssnano": "^4.1.10",
-    "postcss-cli": "^8.3.1",
-    "purgecss": "^4.0.2"
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.17",
+    "cssnano": "^6.0.3",
+    "postcss-cli": "^11.0.0",
+    "purgecss": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
