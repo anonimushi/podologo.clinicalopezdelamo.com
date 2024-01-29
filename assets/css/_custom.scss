@@ -92,7 +92,7 @@
 //   }
 //   .description {
 //     .buttons {
-//       animation: show-up .5s 2.5s both;
+//       animation: show-from .5s 2.5s both;
 //     }
 //   }
 // }
@@ -107,7 +107,7 @@
     text-indent: 0;
     font-size: .75em;
     z-index: 1;
-    animation: show-up .5s 0.25s both;
+    animation: show-from .5s 0.25s both;
     h1 {
       font-size: 1.2em;
       text-align: left;
@@ -120,7 +120,7 @@
     top: 100%;
     transform: translateY(25%);
     .buttons {
-      animation: show-up .5s 0s both;
+      animation: show-from .5s 0s both;
     }
   }
   .rows {
