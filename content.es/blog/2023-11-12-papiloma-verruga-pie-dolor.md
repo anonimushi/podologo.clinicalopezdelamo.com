@@ -9,17 +9,17 @@ image: ''
 categories: []
 tags: []
 author: admin
-toc: false
+toc: true
 draft: false
 noindex: false
 date: 2023-11-12
 lastmod: ''
 ---
-**PAPILOMA O VERRUGA PLANTAR: ¿QUÉ ES? Y ¿CÓMO TRATARLO?.**
+## Papiloma o verruga plantar: ¿Qué es? y ¿Cómo tratarlo?
 
 Las verrugas plantares son lesiones cutáneas benignas causadas por el virus del papiloma humano (VPH). Estas lesiones suelen encontrarse localizadas con más frecuencia en la planta del pie, teniendo una prevalencia en torno al 12 % en la población general, dicho porcentaje puede aumentar en niños y adolescentes hasta el 30 %. Asimismo, los pacientes que hayan presentado esta patología anteriormente, tienen 3 veces más probabilidades de desarrollar nuevas lesiones que los no afectados.
 
-**¿POR QUÉ SE PRODUCEN LOS PAPILOMAS EN EL PIE O LAS VERRUGAS PLANTARES?**
+## ¿Por qué se producen los papilomas en el pie o las verrugas plantares?
 
 Las verrugas plantares se originan por contacto directo con el virus cuando el pie presenta alguna herida o grieta, o indirectamente, a través de superficies u objetos contaminados.
 
@@ -27,13 +27,13 @@ Tienen un periodo de incubación de 1 a 6 meses aproximadamente, a partir de ah�
 
 El podólogo observará los distintos signos clínicos que presentan las verrugas plantares como pueden ser: alteración en las líneas de la piel, puntos negros en la piel e hiperqueratosis.
 
-**Las causas que pueden favorecer la aparición de las verrugas plantares son:**
+## Las causas que pueden favorecer la aparición de las verrugas plantares son:
 
 1. Alteración Inmunitaria: bajada de defensas, enfermedades autoinmunes, déficits nutricionales o estrés.
 1. Caminar descalzos por lugares donde hay calor y humedad, como gimnasios, piscinas, duchas, vestuarios, etc.
 1. Exceso sudoración.
 
-**¿CÓMO PREVENIR EL CONTAGIO DE PAPILOMAS O VERRUGAS PLANTARES?**
+## ¿Cómo prevenir el contagio de papilomas o verrugas plantares?
 
 1. Correcta higiene de los pies, hay que mantenerlos limpios y secos, sobre todo entre los dedos.
 1. No compartir zapatos, calcetines ni toallas.

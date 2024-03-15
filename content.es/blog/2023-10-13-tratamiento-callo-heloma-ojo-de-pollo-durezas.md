@@ -13,7 +13,7 @@ toc: false
 draft: false
 noindex: false
 date: 2023-10-13
-lastmod: false
+lastmod: ''
 ---
 "Heloma molle" es un término médico que se refiere a un tipo específico de callo, también conocido como callo blando o tambien podemos verlo con el nombre de heloma en fondo del saco. Este tipo de callo suele formarse entre los dedos de los pies, especialmente entre el cuarto y quinto dedo. A diferencia de otros callos que son más duros, el heloma molle tiende a ser más blando y húmedo.
 
