@@ -1,6 +1,6 @@
 baseURL: https://podologo.clinicalopezdelamo.com
 Paginate: 24
-buildFuture: false
+buildFuture: true
 theme: [sansoul]
 params:
   git_url: https://gitlab.com/lopezdelamo/podologo.clinicalopezdelamo.com
