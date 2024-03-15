@@ -2,9 +2,7 @@
 title: 'Papiloma o Verruga Plantar: ¿Qué es? y ¿Cómo tratarlo?'
 title_seo: ''
 slug: papiloma-verruga-pie-dolor
-description: Los papilomas es una afectación vírica muy común en los pies. En
-  esta entrada te contamos en que consiste y como se puede prevenir y tratar
-  visitando tu podólogo en Murcia.
+description: Los papilomas es una afectación vírica muy común en los pies. En esta entrada te contamos en que consiste y como se puede prevenir y tratar visitando tu podólogo en Murcia.
 image: ''
 categories: []
 tags: []
@@ -15,7 +13,6 @@ noindex: false
 date: 2023-11-12
 lastmod: ''
 ---
-## Papiloma o verruga plantar: ¿Qué es? y ¿Cómo tratarlo?
 
 Las verrugas plantares son lesiones cutáneas benignas causadas por el virus del papiloma humano (VPH). Estas lesiones suelen encontrarse localizadas con más frecuencia en la planta del pie, teniendo una prevalencia en torno al 12 % en la población general, dicho porcentaje puede aumentar en niños y adolescentes hasta el 30 %. Asimismo, los pacientes que hayan presentado esta patología anteriormente, tienen 3 veces más probabilidades de desarrollar nuevas lesiones que los no afectados.
 

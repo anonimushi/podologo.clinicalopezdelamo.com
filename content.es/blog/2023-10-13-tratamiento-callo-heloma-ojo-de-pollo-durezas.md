@@ -2,9 +2,7 @@
 title: Tratamiento conservador y quirúrgicos del callo u ojo de pollo
 title_seo: tratamiento del ojo de pollo
 slug: tratamiento-callo-heloma-ojo de pollo-durezas
-description: El heloma blando o comúnmente llamado ojo de pollo, tiene su origen
-  en la compresión del calzado y en las deformidades de los dedos. Existen
-  diferentes tratamientos, tanto conservador como quirúrgicos.
+description: El heloma blando o comúnmente llamado ojo de pollo, tiene su origen en la compresión del calzado y en las deformidades de los dedos. Existen diferentes tratamientos, tanto conservador como quirúrgicos.
 image: null
 categories: []
 tags: []
