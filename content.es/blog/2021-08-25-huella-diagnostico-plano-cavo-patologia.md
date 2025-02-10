@@ -1,6 +1,6 @@
 ---
-title: 'Huella del pie o huella plantar: qué información aporta, tipos de huella y como se puede analizar.'
-title_seo: huella plantar es una parte del estudio de la marcha del podólogo.
+title: 'Huella del pie o huella plantar: qué información aporta, tipos de huella y como se puede analizar'
+title_seo: 'Huella del Pie: Qué Información Aporta, Tipos y Como Analizar'
 slug: huella-diagnostico-plano-cavo-patologia
 description: Definición de la huela plantar o del pie así como su importancia dentro de un estudio biomecánico de la pisada. también se analiza las distintas formas o herramientas de obtener la huella.
 image: huellas-del-pie-o-huella-plantar.jpg

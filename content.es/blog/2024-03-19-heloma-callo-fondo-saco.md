@@ -1,13 +1,12 @@
 ---
-title: heloma en fondo de saco
-title_seo: heloma en fondo de saco
+title: Heloma en Fondo de Saco
+title_seo: ''
 slug: heloma-callo-fondo-saco
-description: definición de heloma en fondo de saco o callo entre los dedos,
-  trataremos aspectos como se tratan y que solución definitiva tiene.
+description: Definición de heloma en fondo de saco o callo entre los dedos, trataremos aspectos como se tratan y que solución definitiva tiene.
 image: /podo-logo-callo-cirugia.jpeg
 categories: []
 tags: []
-author: ''
+author: admin
 toc: false
 draft: false
 noindex: false

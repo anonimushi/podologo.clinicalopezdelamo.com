@@ -7,4 +7,4 @@ hugo_stats.json
 package-lock.json
 postcss.config.js
 .vscode
-assets/jsconfig.json
+jsconfig.json

@@ -3,14 +3,14 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/lopezdelamo/podologo.clinicalopezdelamo.com
+  git_url: https://github.com/seacomoseo/podologo.clinicalopezdelamo.com
   netlify_name: lopezdelamo
   netlify_id: 81c2748e-e24e-41c3-9438-21d2a46e03c9
   hook: NjMwMmMzODEyYTQxZGQ2Y2Y4ZGIxY2I0
   drive_link: https://drive.google.com/file/d/1fDnF7jPZWlbYoGIIrbxjJz9OPFBDuN87
   drive_mails: andres.lopezdelamo@gmail.com
 defaultContentLanguage: es
-disableLanguages: [en]
+disableLanguages: [en,fr]
 languages:
   es:
     paginatePath: pagina

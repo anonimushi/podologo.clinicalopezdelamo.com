@@ -1,5 +1,5 @@
 ---
-title: Chanclas. Recomendaciones de su uso para el verano
+title: 'Chanclas: Recomendaciones de su uso para el verano'
 title_seo: 'Recomendaciones de uso de chanclas: lesiones en la piel y alteraciones en la marcha.'
 slug: chanclas-recomendaciones-lesiones-podologo
 description: Las chanclas son el calzado de uso por excelencia cuando se acerca el buen tiempo, en este caso cuando empieza el verano. Es el calzado por excelencia de la población por su ligereza y facilidad para poner. El problema del uso de las chanclas en el verano surge cuando su uso es inadecuado, porque puede producir lesiones en la piel como en la musculatura del pie y alteraciones en la marcha.

@@ -1,6 +1,6 @@
 ---
-title: Andar descalzo, sin calzado es bueno o malo.
-title_seo: Andar descalzo, sin calzado es bueno o malo.
+title: Andar descalzo, sin calzado ¿Es bueno o malo?
+title_seo: ''
 slug: andar-descalzo-bueno-malo
 description: siempre se habla de como debemos andar y que calzado es el más adecuado, pero en fechas de verano tendemos a descalzarnos y andar descalzos, a continuación os contamos sus beneficios y cuando no se debe andar descalzo.
 categories: []
