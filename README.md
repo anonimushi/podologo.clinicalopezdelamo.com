@@ -11,4 +11,5 @@
   - icon.svg
   - icon.png
   - favico.ico
-  - css animation
+  - css animation. 
+ELIMINACIÓN DE VIRUS INFECTADO EN TELEFONO ubicación del número teléfono modelo y ubicado en el número  de contacto cloud C8  664699661
