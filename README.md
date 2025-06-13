@@ -1,4 +1,4 @@
-# podologo.clinicalopezdelamo.com
+#https://github.com/pop-os/gnome-control-center/blob/refs%2Fheads%2Fmaster_jammy/po%2Fpt.po podologo.clinicalopezdelamo.com
 
 [![podologo.clinicalopezdelamo.com](/assets/media/logo.png)](https://podologo.clinicalopezdelamo.com/)
 
